@@ -2,7 +2,7 @@ import React from 'react'
 
 function UpiPayment() {
   return (
-    <div>UpiPayment</div>
+    <div>UpiPayment changes from Amar Chauhan </div>
   )
 }
 
